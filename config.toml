@@ -1,0 +1,6 @@
+baseURL = "/"
+languageCode = "en-gb"
+title = "Ben Holness | BI Analyst"
+[markup]
+  [markup.goldmark.renderer]
+    unsafe=true
